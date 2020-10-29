@@ -1,4 +1,4 @@
-# Dicoding Submission Academy Fundamental Web
+# ThisRecipes Apps
 ![Author](https://img.shields.io/badge/made%20by-faniabdullah-blue)
 ![GitHub followers](https://img.shields.io/github/followers/faniabdullah?style=social)
 ![GitHub watches](https://img.shields.io/github/stars/faniabdullah/premierLeague--lite?style=social)
