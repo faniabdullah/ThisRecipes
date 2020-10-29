@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/faniabdullah/dicodingAcademy-FundamentalWeb)
 
 
-Premier league lite is a football progressive web app (PWA) that show litte information for premier league football. Developed as a submission for Dicoding's "Membangun Progressive Web Apps" course. Check the live [here]((https://premierleague--lite.web.app/)
+thisRecipes is a web site that displays food & beverage recipes. Developed as a submission for Dicoding's "Belajar Fundamental Front-End Web Development" course. 
 
 
 <div>
