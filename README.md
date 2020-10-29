@@ -18,8 +18,8 @@ thisRecipes is a web site that displays food & beverage recipes. Developed as a 
 ## Features
 * **Search Recipes**,
 you can search recipes 
- **Filter Recipes**,
-you can Filter recipes 
+* **Filter Recipes**,
+you can Filter recipes by area & categories
 
 ## Built with
 * [Materialize CSS](https://materializecss.com/)
