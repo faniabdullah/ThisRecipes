@@ -8,10 +8,10 @@ This project using API from www.themealdb.com
 
 ## Available Scripts
 In the project directory, you can run:
-### npm install
+# npm install
 
-### How To Build
+# How To Build
 # npm build
 
-### How To Test
+# How To Test
 # npm start-dev
